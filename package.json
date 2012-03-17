@@ -1,6 +1,6 @@
 {
 	"name" : "connect-response",
-	"version" : "0.1.1",
+	"version" : "0.1.2",
 	"description" : "Response middleware for Connect",
 	"keywords": [ "connect", "response", "renderer", "template", "cookies" ],
 	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
