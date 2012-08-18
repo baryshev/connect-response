@@ -1,10 +1,10 @@
 {
-	"name" : "connect-response",
-	"version" : "0.2.0",
-	"description" : "Response middleware for Connect",
-	"keywords": [ "connect", "response", "renderer", "template", "cookies" ],
-	"author" : "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
-	"main" : "index",
+	"name": "connect-response",
+	"version": "0.2.0",
+	"description": "Response middleware for Connect",
+	"keywords": ["connect", "response", "renderer", "template", "cookies"],
+	"author": "Vadim M. Baryshev <vadimbaryshev@gmail.com>",
+	"main": "index",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/baryshev/connect-response.git"
@@ -12,5 +12,7 @@
 	"dependencies": {
 		"cookie": ">= 0.0.4"
 	},
-	"engines" : { "node": ">= 0.4.0" }
+	"engines": {
+		"node": ">= 0.4.0"
+	}
 }

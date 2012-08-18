@@ -1,6 +1,7 @@
-# About 
+#About
+
 Response middleware for Connect
 
-# Installation
+#Installation
 
-	npm install connect-response
+npm install connect - response
